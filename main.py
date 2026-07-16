@@ -27,7 +27,7 @@ logger = logging.getLogger("TaggerBot")
 # --- एनवायरनमेंट वेरिएबल्स ---
 API_ID = 34801155
 API_HASH = "d7846c4d0f2c343dd5b67c80d45409e8"
-BOT_TOKEN = "8918721301:AAGQomTKJ5vtViPRyAhHAZ51_eEmJk1v25I"
+BOT_TOKEN = "8881589159:AAE_3rsISHa9DrWZuAMcDkMClmVZmem2Acc"
 
 # --- कॉन्स्टेंट्स ---
 ARTIST_NAME = "@AllstoryFM2"
